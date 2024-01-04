@@ -1,27 +1,30 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=melonNamedLove&theme=python-dark&border_radius=25&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=800&currStreakLabel=EB5454&fire=EB5454)](https://git.io/streak-stats)
 
 
-Junior Developer
+# 🍈 Junior Developer 🍈
 
 
-🤝 I wish to have various experiences 🤝
+### 🤝 I wish to have various experiences 🤝
 
-❤️ at Least Effort, the Best Result ❤️
-
-
-SOCIAL
-
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+### ❤️ at Least Effort, the Best Result ❤️
 
 
+## SOCIAL
+
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) :huibeomjeong99@gmail.com
+
+![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) :melonnamedlove
+
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyeonn_null/)
+
+### [velog](https://velog.io/@melon_0/posts)
 
 
-SKILLS(lv. 1 to 5)
+
+## SKILLS [ LV. 1 to 5 (max) ]
 
 
--os-
+### -os-
 
 
 ![wind](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -31,7 +34,7 @@ SKILLS(lv. 1 to 5)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
--3-
+### -3-
 
 
 ![kot](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -43,7 +46,7 @@ SKILLS(lv. 1 to 5)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
--2-
+###-2-
 
 
 ![ccs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
