@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=melonNamedLove&theme=python-dark&border_radius=25&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=800&currStreakLabel=EB5454&fire=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 # 🍈 Junior Developer 🍈
