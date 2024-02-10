@@ -4,7 +4,6 @@
 
 # 🍈 Android Developer 🍈
 ### PROMPT ENGINEER
-AI ML Study🔥🔥
 
 ### 🤝 I wish to have various experiences 🤝
 
