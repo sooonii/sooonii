@@ -22,11 +22,7 @@
 ### [velog](https://velog.io/@melon_0/posts)
 
 
-
-## SKILLS [ LV. 1 to 5 (max) ]
-
-
-### -Dev.Environment
+## Platform
 
 
 ![wind](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -34,6 +30,10 @@
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
+
+## SKILLS [ LV. 1 to 5 (max) ]
 
 
 ### -3-
