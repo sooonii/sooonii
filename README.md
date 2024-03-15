@@ -1,4 +1,4 @@
-[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24866%26project%3D%26in=31536000000)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24866%26project%3D%26in=2592000000)](https://codetime.dev)
 [![welcome](https://capsule-render.vercel.app/api?type=venom&height=300&color=0072BB&text=Hi&reversal=false&textBg=false&fontColor=ffffff&fontSize=70&animation=fadeIn&stroke=ffffff&desc=melon&descSize=20)](https://capsule-render.vercel.app/)
 [![GitHub Streak](https://streak-stats.demolab.com?user=melonNamedLove&theme=python-dark&border_radius=25&card_width=800&fire=EB5454)](https://git.io/streak-stats)
 
