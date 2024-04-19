@@ -4,7 +4,7 @@
 
 
 # 🍈 Android Developer 🍈
-### PROMPT ENGINEER
+### LLM PROMPT ENGINEERING
 
 ### 🤝 I wish to have various experiences 🤝
 
