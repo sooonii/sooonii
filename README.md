@@ -1,6 +1,5 @@
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24866%26project%3D%26in=2592000000)](https://codetime.dev)
 [![wakatime](https://wakatime.com/badge/user/018f01e6-256c-4772-8c86-c54b7de759f1.svg)](https://wakatime.com/@018f01e6-256c-4772-8c86-c54b7de759f1)
-[![wakatime](https://wakatime.com/badge/user/018f01e6-256c-4772-8c86-c54b7de759f1/project/018f01ec-817f-434b-8e45-34859e34c75a.svg)](https://wakatime.com/badge/user/018f01e6-256c-4772-8c86-c54b7de759f1/project/018f01ec-817f-434b-8e45-34859e34c75a)
 [![welcome](https://capsule-render.vercel.app/api?type=venom&height=300&color=0072BB&text=Hi&reversal=false&textBg=false&fontColor=ffffff&fontSize=70&animation=fadeIn&stroke=ffffff&desc=melon&descSize=20)](https://capsule-render.vercel.app/)
 [![GitHub Streak](https://streak-stats.demolab.com?user=melonNamedLove&theme=python-dark&border_radius=25&card_width=800&fire=EB5454)](https://git.io/streak-stats)
 
