@@ -12,16 +12,6 @@
 ### ❤️ at Least Effort, the Best Result ❤️
 
 
-## SOCIAL
-
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) :huibeomjeong99@gmail.com
-
-![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) :melonnamedlove
-
-[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyeonn_null/)
-
-### [velog](https://velog.io/@melon_0/posts)
-
 
 ## Dev Env
 
@@ -35,6 +25,16 @@
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## SOCIAL
+
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) :huibeomjeong99@gmail.com
+
+![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) :melonnamedlove
+
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyeonn_null/)
+
+### [velog](https://velog.io/@melon_0/posts)
 
 
 
