@@ -3,6 +3,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=melonNamedLove&theme=python-dark&border_radius=25&card_width=800&fire=EB5454)](https://git.io/streak-stats)
 
 
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 # 🍈 Android Developer 🍈
 ### LLM PROMPT ENGINEERING
 
@@ -30,10 +31,9 @@
 
 
 ## Languages
-![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![kot](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
