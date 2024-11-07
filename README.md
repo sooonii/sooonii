@@ -4,10 +4,8 @@
 
 
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-# 🍈 Android Developer 🍈
-### LLM PROMPT ENGINEERING
+# 🍈 MOBILE ENGINEER 🍈
 
-### 🤝 I wish to have various experiences 🤝
 
 ### ❤️ at Least Effort, the Best Result ❤️
 
@@ -18,7 +16,7 @@
 
 ![wind](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ## Languages
 ![kot](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,7 +27,6 @@
 ## SOCIAL
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) :huibeomjeong99@gmail.com
-
 ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) :melonnamedlove
 
 
