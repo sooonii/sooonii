@@ -35,6 +35,16 @@
 ![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+
+## I have done
+https://roadmap.ne.kr/
+
+https://usc.kaloidea.com/
+
+https://play.google.com/store/apps/details?id=com.kaloidea.twa
+
+https://apps.apple.com/kr/app/%EA%B9%94%EB%A1%9C/id6448695375
+
 ## CONTACT
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) :huibeomjeong99@gmail.com
