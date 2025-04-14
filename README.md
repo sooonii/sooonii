@@ -1,6 +1,6 @@
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24866%26project%3D%26in=2592000000)](https://codetime.dev)
 [![wakatime](https://wakatime.com/badge/user/018f01e6-256c-4772-8c86-c54b7de759f1.svg)](https://wakatime.com/@018f01e6-256c-4772-8c86-c54b7de759f1)
-[![GitHub Streak](https://streak-stats.demolab.com?user=melonNamedLove&theme=python-dark&border_radius=25&card_width=800&fire=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=soooni&theme=python-dark&border_radius=25&card_width=800&fire=EB5454)](https://git.io/streak-stats)
 ![ Stats](https://leetcode-status.vercel.app/api/card/heebum?theme=dark&hide_title=false&custom_title=)
 
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
